@@ -18,7 +18,7 @@ public class SalarieDAO {
     static PreparedStatement requete=null;
     static ResultSet rs=null;
 
-public static Salarie getSalarieByMatricule(Connection connection , String matricule) throws SQLException{
+public static Salarie getSalarieByMatriculeA(Connection connection , String matricule) throws SQLException{
     Salarie unSalarie = new Salarie();
     try 
     {
