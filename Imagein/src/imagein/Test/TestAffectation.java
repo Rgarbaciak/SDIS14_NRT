@@ -41,10 +41,4 @@ public class TestAffectation {
         
         
  */
-        
-        Connection con= ConnexionBdd.ouvrirConnexion();
-        Salarie unSalarie = SalarieDAO.getSalarieByMatricule(con,"A18");
-        unSalarie.setNom("ELKANTE");
-        System.out.println("Resultat de l'update = " + SalarieDAO.updateSalarie(con, unSalarie));
- }
  }
