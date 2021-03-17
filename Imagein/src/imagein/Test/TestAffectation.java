@@ -10,7 +10,7 @@ import imagein.modele.Salarie;
 * 18/01/2021
 * objet du programme
 * Classe metier TestAffectation
-* @author Garbaciak
+* @author donatien
 */
 public class TestAffectation {
  public static void main(String[] args) throws SQLException {
