@@ -41,4 +41,5 @@ public class TestAffectation {
         
         
  */
+  System.out.println("Salut , Dodo la grosse merde") ;
  }
