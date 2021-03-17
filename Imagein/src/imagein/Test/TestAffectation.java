@@ -4,9 +4,6 @@ import DAO.SalarieDAO;
 import imagein.modele.Affectation;
 import imagein.modele.Projet;
 import imagein.modele.Salarie;
-import java.sql.Connection;
-import java.sql.SQLException;
-import java.util.ArrayList;
 
 /**
 * date du programme
